@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Paketvermittlung:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Paketvermittlung_jar</output-path>
+    <root id="archive" name="Paketvermittlung.jar">
+      <element id="module-output" name="Paketvermittlung" />
+    </root>
+  </artifact>
+</component>
